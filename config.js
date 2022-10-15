@@ -49,43 +49,43 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
+global.sig = 'https://instagram.com/risky_xcz321' // ig
+global.sgh = 'https://github.com/Riskybotajadeh/' // github
+global.sgc = 'https://chat.whatsapp.com/KL7OJFOQ95nI2NhQUNsCG1' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://youtube.com/channel/UC_dYeKNRug2fKuS9NX58h3w' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.syt = 'https://youtube.com/channel/UC_dYeKNRug2fKuS9NX58h3w' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
+global.pdana = '082173242194' //dana
+global.povo = '082173242194' //ovo
+global.pgopay = '082173242194' //gopay
+global.plinkaja = '082173242194' //link aja
+global.ppulsa = '082173242194' //telkomsel
+global.ppulsa2 = '082173242194' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6282127487538'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '6282173242194'
+global.nomorown = '6282173242194'
+global.namebot = 'ℝ𝕀𝕊𝕂𝕐 𝔹𝕆𝕋 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ'
+global.nameown = '𝙍𝙄𝙎𝙆𝙔 𝘽𝙊𝙏'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nama Github Belum Diisi' // nama github lu
-global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
+global.namagithub = 'Riskybotajadeh' // nama github lu
+global.linkgithub = 'https://github.com/Riskybotajadeh/' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
-global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182c16
+global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA Risky  8e66d0934cf741bfd2182c16
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127487538', 'WH MODS DEV', true],
+  ['6282173242194', '𝙍𝙄𝙎𝙆𝙔 𝘽𝙊𝙏 𝙈𝘿', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -140,12 +140,12 @@ global.APIKeys = { // APIKey Here
 /*============== WATERMARK ==============*/
 global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm3 = '⫹⫺ 𝙍𝙄𝙎𝙆𝙔 𝙒𝘼𝙉𝙂𝙎𝘼𝙁𝙁'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
-global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By 𝙍𝙄𝙎𝙆𝙔`
+global.packname = '☂︎ 𝙏𝙃𝙀 𝙇𝙊𝙍𝘿 𝙍𝙄𝙎𝙆𝙔'
+global.author = '                「 𝙍𝙄𝙎𝙆𝙔 𝘽𝙊𝙏」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -628,7 +628,7 @@ global.cmenuf = '┗━═┅═━––––––๑\n' //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
 global.pmenus = '✦' //pembatas menu selector
 
-global.htki = '––––––『' // Hiasan Titile (KIRI)
+global.htki = '𝙍𝙄𝙎𝙆𝙔 𝙂𝘼𝙉𝙏𝙀𝙉𝙂『' // Hiasan Titile (KIRI)
 global.htka = '』––––––' // Hiasan Title  (KANAN)
 global.lopr = 'Ⓟ' //LOGO PREMIUM ON MENU.JS
 global.lolm = 'Ⓛ' //LOGO LIMIT/FREE ON MENU.JS
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = '𝙍𝙄𝙎𝙆𝙔 𝘽𝙊𝙏 𝙈𝘿'
+global.stickauth = `By 𝙍𝙄𝙎𝙆𝙔 MODS-DEV`
 
 global.multiplier = 38 // The higher, The harder levelup
 
